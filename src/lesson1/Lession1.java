@@ -2,7 +2,7 @@ package lesson1;
 
 import java.util.*;
 
-public class Lession1 {
+public class lession1 {
 	
 	public static void run() {
 		// answer for exercise 1
