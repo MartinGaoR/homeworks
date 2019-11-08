@@ -16,6 +16,10 @@ public class Homeworks {
 			System.out.println("running lesson 2 exercise");
 			lesson2.lesson2.run();
 			break;
+		case 3:
+			System.out.println("running lesson 3 exercise");
+			lesson3.lesson3.run();
+			break;
 		default:
 			System.out.println("invalid lesson number, program exited");
 		}
