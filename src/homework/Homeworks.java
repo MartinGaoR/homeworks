@@ -28,6 +28,10 @@ public class Homeworks {
 			System.out.println("running lesson 5 exercise");
 			lesson5.lesson5.run();
 			break;
+		case 6:
+			System.out.println("running lesson 6 exercise");
+			lesson6.lesson6.run();
+			break;
 		default:
 			System.out.println("invalid lesson number, program exited");
 		}
